@@ -3,10 +3,10 @@
       {
           "id": 1,
           "name": "Mitsubishi",
-          "car_model": "Montero",
+          "car_model": "Pajero",
           "price": "$30",
-          "image": "https://imgd.aeplcdn.com/664x374/cw/ec/23799/Mitsubishi-Montero-Right-Front-Three-Quarter-74529.jpg?v=201711021421&q=85",
-          "description": "5-Seater | WITH FUEL(prices include fuel cost) |  AGE-LIMIT: 18+ | The car is registered on 2015 and we sanitize our cars everyday"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytsVMPyVA4WZsJqWoUGIFX6W6kGhEKG0DaQ&usqp=CAU",
+          "description": "5-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2015 and we sanitize our cars everyday."
       },
       {
           "id": 2,
@@ -14,7 +14,7 @@
           "car_model": "Sylphy",
           "price": "$33",
           "image": "https://reports.nissan-global.com/EN/wp-content/uploads/2018/06/sylphy.jpg",
-          "description": "5-Seater | WITHOUT FUEL(prices exclude fuel cost) |  AGE-LIMIT: 18+ | The car is registered on 2016 and we sanitize our cars everyday"
+          "description": "5-Seater | WITHOUT FUEL(prices exclude fuel cost) |  AGE-LIMIT: 18+ | The car is registered on 2016 and we sanitize our cars everyday."
       },
       {
           "id": 3,
@@ -109,7 +109,7 @@
           "name": "Nissan",
           "car_model": "Patrol",
           "price": "$38",
-          "image": "https://www.carmodelslist.com/wp-content/uploads/2012/04/Nissan-Patrol.jpg",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvllusXj6cMSoFd0ryQo3O9tpZj10mcvcRag&usqp=CAU",
           "description": "7-Seater | WITHOUT FUEL(prices exclude fuel cost) |  AGE-LIMIT: 18+ | The car is registered on 2015 and we sanitize our car everyday"
       },
       {
