@@ -6,7 +6,7 @@
           "car_model": "Pajero",
           "price": "$30",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytsVMPyVA4WZsJqWoUGIFX6W6kGhEKG0DaQ&usqp=CAU",
-          "description": "5-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2015 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2015 and we sanitize our cars everyday."
       },
       {
           "id": 2,
@@ -14,7 +14,7 @@
           "car_model": "Sylphy",
           "price": "$33",
           "image": "https://reports.nissan-global.com/EN/wp-content/uploads/2018/06/sylphy.jpg",
-          "description": "5-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2016 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2016 and we sanitize our cars everyday."
       },
       {
           "id": 3,
@@ -22,7 +22,7 @@
           "car_model": "Q5 Facelift",
           "price": "$46",
           "image": "https://static.toiimg.com/thumb/msid-76694145,width-1200,height-900,resizemode-4/.jpg",
-          "description": "5-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2013 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2013 and we sanitize our cars everyday."
       },
       {
           "id": 4,
@@ -30,7 +30,7 @@
           "car_model": "New A6",
           "price": "$50",
           "image": "https://imgd.aeplcdn.com/664x374/cw/ec/39472/Audi-New-A6-Exterior-169814.jpg?wm=0&q=85",
-          "description": "5-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2021 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2021 and we sanitize our cars everyday."
       },
       {
           "id": 5,
@@ -38,7 +38,7 @@
           "car_model": "Endeavour",
           "price": "$39",
           "image": "https://imgd.aeplcdn.com/664x374/n/55reasa_1459072.jpg?q=85",
-          "description": "5-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2014 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2014 and we sanitize our cars everyday."
       },
       {
           "id": 6,
@@ -46,7 +46,7 @@
           "car_model": "Carnival",
           "price": "$44",
           "image": "https://www.kia.com/content/dam/kia2/in/en/images/360vr/carnival/apb92fc5jgg041/exterior/abp/07-d.png",
-          "description": "7-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2019 and we sanitize our cars everyday."
+          "description": "💺 7 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2019 and we sanitize our cars everyday."
       },
       {
           "id": 7,
@@ -54,7 +54,7 @@
           "car_model": "488 Spider",
           "price": "$85",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHS69p0-Jsn75FikG8O0o328tqLD2nldnXg&usqp=CAU",
-          "description": "2-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 25+  |  The car is registered on 2017 and we sanitize our cars everyday."
+          "description": "💺 2 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 25+  |  The car is registered on 2017 and we sanitize our cars everyday."
       },
       {
           "id": 8,
@@ -62,7 +62,7 @@
           "car_model": "Triber",
           "price": "$35",
           "image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/39276/triber-exterior-right-front-three-quarter-168563.jpeg",
-          "description": "7-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2018 and we sanitize our cars everyday."
+          "description": "💺 7 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2018 and we sanitize our cars everyday."
       },
       {
           "id": 9,
@@ -70,7 +70,7 @@
           "car_model": "Polo",
           "price": "$34",
           "image": "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_400,ar_16:9/npwnc0vkzypirj7hp1he.jpg",
-          "description": "5-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2013 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2013 and we sanitize our cars everyday."
       },
       {
           "id": 10,
@@ -78,7 +78,7 @@
           "car_model": "C-class",
           "price": "$41",
           "image": "https://imgd.aeplcdn.com/0x0/cw/ec/30146/MercedesBenz-CClass-Facelift-Exterior-130761.jpg?wm=0",
-          "description": "4-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2020 and we sanitize our cars everyday."
+          "description": "💺 4 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2020 and we sanitize our cars everyday."
       },
       {
           "id": 11,
@@ -86,7 +86,7 @@
           "car_model": "Enzo",
           "price": "$80",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-Zg37V00MnpbTPkXIkNihA1Fa8VsWq6Vgw&usqp=CAU",
-          "description": "2-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 25+ | The car is registered on 2019 and we sanitize our cars everyday."
+          "description": "💺 2 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 25+ | The car is registered on 2019 and we sanitize our cars everyday."
       },
       {
           "id": 12,
@@ -94,7 +94,7 @@
           "car_model": "Seltos",
           "price": "$36",
           "image": "https://www.kia.com/content/dam/kia2/in/en/images/360vr/seltos/tiw5k4g1uhh132/exterior/a6r/09-d.png",
-          "description": "5-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2018 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2018 and we sanitize our cars everyday."
       },
       {
           "id": 13,
@@ -102,7 +102,7 @@
           "car_model": "Freestyle",
           "price": "$32",
           "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http%3A%2F%2Fcms.haymarketindia.net%2Fmodel%2Fuploads%2Fmodelimages%2Ffreestylemodelimage.jpg&h=578&w=872&c=1",
-          "description": "5-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2016 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2016 and we sanitize our cars everyday."
       },
       {
           "id": 14,
@@ -110,7 +110,7 @@
           "car_model": "Patrol",
           "price": "$38",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvllusXj6cMSoFd0ryQo3O9tpZj10mcvcRag&usqp=CAU",
-          "description": "7-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2015 and we sanitize our car everyday."
+          "description": "💺 7 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2015 and we sanitize our car everyday."
       },
       {
           "id": 15,
@@ -119,7 +119,7 @@
           "car_model_year": 2018,
           "price": "$40",
           "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-20th-anniv-maxima-24-1200x850-1600782997.jpg?crop=0.686xw:0.484xh;0.186xw,0.495xh&resize=1200:*",
-          "description": "5-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2018 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2018 and we sanitize our cars everyday."
       },
       {
           "id": 16,
@@ -127,7 +127,7 @@
           "car_model": "Shift",
           "price": "$30",
           "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/exterior-right-front-three-quarter-10.jpeg?q=85",
-          "description": "5-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2014 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2014 and we sanitize our cars everyday."
       },
       {
           "id": 17,
@@ -135,7 +135,7 @@
           "car_model": "Creta",
           "price": "$32",
           "image": "https://imgd.aeplcdn.com/642x361/n/cw/ec/95519/hyundai-creta-left-front-three-quarter0.jpeg?wm=1&q=85",
-          "description": "5-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2015 and we sanitize our car everyday."
+          "description": "💺 5 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2015 and we sanitize our car everyday."
       },
       {
           "id": 18,
@@ -143,7 +143,7 @@
           "car_model": "Fortuner",
           "price": "$41",
           "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=85",
-          "description": "7-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2017 and we sanitize our cars everyday."
+          "description": "💺 7 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2017 and we sanitize our cars everyday."
       },
       {
           "id": 19,
@@ -151,7 +151,7 @@
           "car_model": "I20",
           "price": "$35",
           "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/i20-bc3/i20-bc3-highlights-designed-to-stand-out-m.jpg",
-          "description": "4-Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2016 and we sanitize our cars everyday."
+          "description": "💺 4 Seater  |  WITH FUEL(prices include fuel cost)  |  AGE-LIMIT: 18+  |  The car is registered on 2016 and we sanitize our cars everyday."
       },
       {
           "id": 20,
@@ -159,7 +159,7 @@
           "car_model": "Xuv500",
           "price": "$33",
           "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https%3a%2f%2fcdni.autocarindia.com%2fExtraImages%2f20200828024151_XUV500.jpg&h=795&w=1200&c=0",
-          "description": "5-Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |   AGE-LIMIT: 18+  |  The car is registered on 2020 and we sanitize our cars everyday."
+          "description": "💺 5 Seater  |  WITHOUT FUEL(prices exclude fuel cost)  |   AGE-LIMIT: 18+  |  The car is registered on 2020 and we sanitize our cars everyday."
       }
      ]
 }
